@@ -40,5 +40,5 @@ To get an ID, simply send the command /id directly to any chat or send it as a r
 - You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
 ```
 ##Credits
-- [GetAnyID bot by Helpsomeone] (https://github.com/Helpsomeone/GET_ID)
+- [GETAny_ID_bot bot by Helpsomeone] (https://github.com/Helpsomeone/GET_ID)
 ```
